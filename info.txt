@@ -1,0 +1,1 @@
+This is the first basic python project. Going to release this app using  Azure Devops along with CI/CD.
